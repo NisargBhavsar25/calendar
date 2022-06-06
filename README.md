@@ -13,5 +13,5 @@ If you don't want to install the package, and are on windows, you can directly o
 <div align="center">
     <img src="https://github.com/NisargBhavsar25/calendar/blob/main/Example-1.png?raw=true"></img>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://github.com/NisargBhavsar25/calendar/blob/main/Example-2.png?raw=true" height="30%" width = "30%"></img>
+    <img src="https://github.com/NisargBhavsar25/calendar/blob/main/Example-2.png?raw=true" height="35%" width = "35%"></img>
 </div>
